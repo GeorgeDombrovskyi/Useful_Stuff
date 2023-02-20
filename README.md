@@ -8,3 +8,4 @@
 |Javascript Exapmle | https://www.w3schools.com/js/js_examples.asp|
 | .| .|
 | Emoji for GIT | https://gist.github.com/AliMD/3344523 |
+| to create a CV | https://www.canva.com/ |
