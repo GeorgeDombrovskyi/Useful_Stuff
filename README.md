@@ -10,4 +10,4 @@
 | Emoji for GIT | https://gist.github.com/AliMD/3344523 |
 | to create a CV | https://www.canva.com/ |
 | ISTQB Foundation Level (CTFL) Syllabus |https://astqb.org/assets/documents/CTFL-2018-Syllabus.pdf|
-| ISTQB resources | https://astqb.org/resources/|
+| ISTQB Resources | https://astqb.org/resources/|
