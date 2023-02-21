@@ -10,5 +10,6 @@
 | ISTQB Foundation Level (CTFL) Syllabus |https://astqb.org/assets/documents/CTFL-2018-Syllabus.pdf|
 | ISTQB Resources | https://astqb.org/resources/|
 | Emoji for GIT | https://gist.github.com/AliMD/3344523 |
-| Visual for GIT | https://readme-typing-svg.demolab.com/demo/ |
+| Visual TEXT for GIT | https://readme-typing-svg.demolab.com/demo/ |
+| Visual SHIELDS for GIT| https://shields.io/category/social|
 | to create a CV | https://www.canva.com/ |
