@@ -14,3 +14,5 @@
 | Visual SHIELDS for GIT| https://shields.io/category/social|
 | to create a CV | https://www.canva.com/ |
 | more color for Terminal (macOS) | https://ohmyz.sh/#install |
+|.|.|
+|How to fix support for "password authentication was removed on GitHub" |https://levelup.gitconnected.com/fix-password-authentication-github-3395e579ce74|
