@@ -13,3 +13,4 @@
 | Visual TEXT for GIT | https://readme-typing-svg.demolab.com/demo/ |
 | Visual SHIELDS for GIT| https://shields.io/category/social|
 | to create a CV | https://www.canva.com/ |
+| more color for Terminal (macOS) | https://ohmyz.sh/#install |
