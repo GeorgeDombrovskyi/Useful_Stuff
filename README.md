@@ -16,4 +16,9 @@
 | more color for Terminal (macOS) | https://ohmyz.sh/#install |
 |.|.|
 |How to fix support for "password authentication was removed on GitHub" |https://levelup.gitconnected.com/fix-password-authentication-github-3395e579ce74|
-|for https access| git remote set-url origin https://<githubtoken>@github.com/<username>/<repositoryname>.git|
+
+
+### For https access 
+    
+    >git remote set-url origin https://<githubtoken>@github.com/<username>/<repositoryname>.git
+
