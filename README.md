@@ -16,7 +16,7 @@
 
 
 ### GIT
-|How to fix support for "password authentication was removed on GitHub" |https://levelup.gitconnected.com/fix-password-authentication-github-3395e579ce74|
+|How to fix support for  "password authentication was removed on GitHub" |https://levelup.gitconnected.com/fix-password-authentication-github-3395e579ce74|
 | ----- | ----- |
 | Emoji for GIT | https://gist.github.com/AliMD/3344523 |
 | Visual TEXT for GIT | https://readme-typing-svg.demolab.com/demo/ |
